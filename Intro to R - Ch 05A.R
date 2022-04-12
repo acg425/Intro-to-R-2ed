@@ -59,3 +59,8 @@ for (i in 1:n) {
   } else {}
 }
 
+for (i in n:1) {
+  if () {
+    
+  }
+}
